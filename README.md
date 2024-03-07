@@ -1,1 +1,1 @@
-# DApp-Axax2
+A decentralized app
